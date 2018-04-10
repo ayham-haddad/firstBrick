@@ -1,0 +1,22 @@
+{
+  "name": "@ayham/firstbrick",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayham-haddad/firstBrick.git"
+  },
+  "author": "ayham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayham-haddad/firstBrick/issues"
+  },
+  "homepage": "https://github.com/ayham-haddad/firstBrick#readme",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
