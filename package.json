@@ -16,7 +16,6 @@
   },
   "homepage": "https://github.com/ayham-haddad/firstBrick#readme",
   "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
