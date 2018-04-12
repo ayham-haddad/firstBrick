@@ -1,0 +1,22 @@
+{
+  "name": "firstbrick",
+  "version": "1.0.0",
+  "description": "Make small works great",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayham-haddad/firstBrick.git"
+  },
+  "author": "ayham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayham-haddad/firstBrick/issues"
+  },
+  "homepage": "https://github.com/ayham-haddad/firstBrick#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
